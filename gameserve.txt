@@ -1,0 +1,10 @@
+# Bigfarm 
+0.0.0.0 lp.empire.goodgamestudios.com
+0.0.0.0 bigfarm.goodgamestudios.com
+0.0.0.0 bigfarm-html5.goodgamestudios.com
+0.0.0.0 empire-html5.goodgamestudios.com
+0.0.0.0 bf-live-temp2-game.goodgamestudios.com
+0.0.0.0 bf-live-de1-game.goodgamestudios.com
+0.0.0.0 files-ak.goodgamestudios.com
+0.0.0.0 bigfarm-client-tracking.goodgamestudios.com	
+0.0.0.0 http2.tracking.goodgamestudios.com
